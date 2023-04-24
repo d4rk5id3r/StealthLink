@@ -12,7 +12,7 @@ Stealth-link is not a tool for phishing. Instead, it serves as a demonstration o
 
 <br/>
 
-## ⚖️ Waiver
+## ⚖️ Ethical Notice
 This program, Stealth-Link, is intended solely for educational purposes. It is illegal to use it to attack targets without obtaining prior mutual consent. The end user is responsible for complying with all relevant local, state, and federal laws. The developers are not liable for any misuse or damage resulting from the use of this program. Please use it responsibly.
 
 <br/>
@@ -37,7 +37,7 @@ bash Stealthlink.sh
 
 ## Snapshots
 <p align="">
-	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
+	<img src="Screenshot.png" width="600px">
 </p>
 
 <br />
