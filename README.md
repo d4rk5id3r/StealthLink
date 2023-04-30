@@ -8,7 +8,7 @@
 <br/>
 
 ## 🔥 Stealth-Link
-Stealth-link is not a tool for phishing. Instead, it serves as a demonstration of "URL Making Technology," achieved through a straightforward Bash Script. Its purpose is to conceal a phishing URL beneath an innocent-looking URL such as wikipedia.com or facebook.com. It can be included in phishing tools, provided appropriate credit is given, to create a more credible URL appearance.
+Stealth-link is not a tool for phishing. Instead, it serves as a demonstration of "URL Making Technology," achieved through a straightforward Bash Script and also available in python. Its purpose is to conceal a phishing URL beneath an innocent-looking URL such as wikipedia.com or facebook.com. It can be included in phishing tools, provided appropriate credit is given, to create a more credible URL appearance.
 
 <br/>
 
@@ -31,6 +31,19 @@ chmod +x Stealthlink.sh
 
 # Run the script using the following command:
 bash Stealthlink.sh
+
+```
+```
+python 
+
+#Clone the repository using the following command:
+git clone https://github.com/d4rk5id3r/Stealth-Link
+
+# Navigate to the directory using the following command:
+cd StealthLink
+
+# Run the script using the following command:
+python3 Stealthlink.py
 
 ```
 <br/>
