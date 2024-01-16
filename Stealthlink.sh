@@ -46,7 +46,7 @@ echo  -e "\n ${yellowColour} Rebuilding Phishing URL"
 
 echo   ""
 
-compress=$(curl -s "https://is.gd/create.php?format=simple&url=${link}")
+compress=$(curl -s "https://v.gd/create.php?format=simple&url=${link}")
 
 url=${compress#https://}
 
