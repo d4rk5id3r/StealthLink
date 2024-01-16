@@ -62,7 +62,7 @@ time.sleep (1) # Sleep for 1 second
 print("")
 
 # Compressing the URL using the is.gd API
-compress = f"curl -s 'https://is.gd/create.php?format=simple&url={link}'"
+compress = f"curl -s 'https://v.gd/create.php?format=simple&url={link}'"
 
 comp = subprocess.check_output(compress, shell=True).decode('utf-8').strip()
 
